@@ -149,4 +149,3 @@ timelineCards.forEach(card => {
 // ===== INITIALIZE =====
 updateTimeline();
 updateActiveNav();
-Exibindo script.js…
